@@ -1,0 +1,30 @@
+
+.header {
+width: 2000px;
+height: 72px;
+background-color: #194277
+}
+.cookies {
+font-family: 'Lato', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	margin-left: 745px;
+	margin-top: 32px;
+	float: left;
+	color:#ffffff;
+}
+.button {
+width: 112px;
+height: 30px;
+border-radius: 15px;
+background-color: #ffffff;
+margin-top: 25px;
+margin-left: 45px;
+}
+
+.portlio  {
+width: 2000px;
+height: 872px;
+background-color: #3695ff;
+background-image: linear-gradient(#3695ff #469dff #4099ff #3c8efe #3573fd #3695ff, #3564fc);
+}
